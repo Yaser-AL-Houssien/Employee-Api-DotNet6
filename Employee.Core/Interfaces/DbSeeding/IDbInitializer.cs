@@ -1,0 +1,5 @@
+﻿namespace Employee.Core.Interfaces;
+public interface IDbInitializer
+{
+    void Initialize();
+}
