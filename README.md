@@ -1,6 +1,8 @@
 # Employee-Api-DotNet6
+
+## Run the project 
 1-Clone the Repository.
-2-Change the connection string in appsting.js
+2-Change the connection string in `appsting.js`
 3-run  update-databas (set Employee.EF as Default Project )
 4-run the project (Employee.API)
 
